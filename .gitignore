@@ -4,3 +4,6 @@ virtualenv
 __pycache__
 *.pyc
 /static
+.htaccess
+passenger_wsgi.py
+tmp/

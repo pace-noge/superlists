@@ -25,7 +25,7 @@ SECRET_KEY = '%pu7sc7(4zi_%j(pz1(o-=*!rq-x(tmi#5-@udnh-rnj=ud(z9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['superlists.baliemcoder.com']
 
 
 # Application definition
